@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "empty_first_app"
 include ':app'
 include ':geoquizjava'
+include ':geoquizkotlin'
